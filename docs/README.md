@@ -1,4 +1,4 @@
-# Sobre
+# DOCs
 
 Estudo de Laravel com Vue.js
 
